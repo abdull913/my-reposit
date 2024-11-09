@@ -1,0 +1,86 @@
+div{background-color: rgba(32, 28, 28, 0.998);height: 50px;}
+button{background-color: gold;float: right;height: 30px; margin-top: 10px; border:gold;margin-right: 15px; }
+.child1{color: white; float: right; margin-top: 15px;margin-right: 20px; }
+.child2{color: white;float: right; margin-top: 15px;margin-right: 25px; }
+.icon1{color: gold;}
+.icon2{color: gold;}
+a{margin-top: 15px;}
+a{margin-right: 15px;}
+a{float:right ;}
+ .con1{color: rgb(42, 28, 28);background-color: white;} 
+.ink{float: left;}
+.ink{margin-top: 10px;  margin-right: -15px; }
+
+.link1{
+    color: rgb(0, 0, 0); 
+    text-decoration: none; 
+    font-weight: normal; }
+
+.link1:hover {
+    text-decoration: none; 
+    border-bottom: 3px solid gold; 
+    font-weight: bold; 
+}
+.link2{color: rgb(0, 0, 0); 
+    text-decoration: none; 
+    font-weight: normal; }
+
+    .link2:hover {
+        text-decoration: none; 
+        border-bottom: 3px solid gold; 
+        font-weight: bold; 
+    }
+
+.link3{color: rgb(0, 0, 0); 
+    text-decoration: none; 
+    font-weight: normal; }
+    .link3:hover {
+        text-decoration: none; 
+        border-bottom: 3px solid gold; 
+        font-weight: bold; 
+    }
+
+
+.link4{color: rgb(0, 0, 0); 
+    text-decoration: none; 
+    font-weight: normal; }
+    .link4:hover {
+        text-decoration: none; 
+        border-bottom: 3px solid gold; 
+        font-weight: bold; 
+    }
+
+.link5{color: rgb(0, 0, 0); 
+    text-decoration: none; 
+    font-weight: normal; }
+    .link5:hover {
+        text-decoration: none; 
+        border-bottom: 3px solid gold; 
+        font-weight: bold; 
+    }
+
+
+    .link6{color: rgb(0, 0, 0); 
+        text-decoration: none; 
+        font-weight: normal; } 
+        .link6:hover {
+            text-decoration: none; 
+            border-bottom: 3px solid gold; 
+            font-weight: bold; 
+        }
+        .link7{color: rgb(0, 0, 0); 
+            text-decoration: none; 
+            font-weight: normal; }
+            .link7:hover {
+                text-decoration: none; 
+                border-bottom: 3px solid gold; 
+                font-weight: bold; 
+            }
+            .link8{color: rgb(0, 0, 0); 
+                text-decoration: none; 
+                font-weight: normal; }
+                .link8:hover {
+                    text-decoration: none; 
+                    border-bottom: 3px solid gold; 
+                    font-weight: bold; 
+                }
